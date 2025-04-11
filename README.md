@@ -1,2 +1,2 @@
 # master in prompting
-here you can find prompting technique using python. test
+here you can find prompting technique using python and openAI.
