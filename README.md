@@ -55,9 +55,6 @@ This repository provides a comprehensive guide on mastering prompt engineering u
 - **Chain of Thought**: Encourage step-by-step reasoning.
 - **Persona-based Prompting**: Simulate responses from a specific character.
 
-## Contributing
-
-Contributions are welcome! Please read the [contributing guidelines](CONTRIBUTING.md) for more details.
 
 ## License
 
